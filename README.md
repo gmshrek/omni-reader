@@ -32,4 +32,5 @@ OmniReader 支持将 Kindle、CHM、TXT、FB2、RTF、HTML 等文件转换为 EP
 摸鱼模式可在设置页自定义快捷键。
 
 联系邮箱: gmshrekhelp@outlook.com
+
 QQ反馈群：1005148851
