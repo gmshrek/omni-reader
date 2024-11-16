@@ -2,6 +2,8 @@
 
 OmniReader 是一款全能的电子书阅读器，不仅界面简洁美观，还提供了极致舒适的个性化阅读体验，让您全情投入阅读，享受每一刻。
 
+[下载地址](https://itunes.apple.com/app/id1510511137?mt=8)
+
 ▸ 特性：
 - 文件格式多样支持
 OmniReader支持多种文件 格式，包括 EPUB、CHM、PDF、TXT、RTF、FB2、HTML、 WPD、DJVU，以及 Kindle(MOBI、AZW3、PRC、 TPZ、AZW、AZW4、AZS、AZL)，满足您各种电子 书籍的阅读需求。
@@ -34,3 +36,5 @@ OmniReader 支持将 Kindle、CHM、TXT、FB2、RTF、HTML 等文件转换为 EP
 联系邮箱: gmshrekhelp@outlook.com
 
 QQ反馈群：1005148851
+
+[隐私政策](https://github.com/gmshrek/info/blob/master/Privacy.md)
